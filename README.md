@@ -1,3 +1,5 @@
 # Matt Seligman's Notes
 
-## Learning about Markdown Header Hiarchy.
+## Summary 
+
+This repository contains all of the notes taken by [Matt Seligman](https://github.com/MattSeligman) for the Lighthouse Labs Web Development Bootcamp.
